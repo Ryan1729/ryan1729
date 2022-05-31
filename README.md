@@ -10,7 +10,7 @@
     </td>
     <td>
       <a href='https://github.com/Ryan1729/guilloche'>
-        <img src="https://github.com/Ryan1729/guilloche/raw/main/screenshot.png?raw=true" alt="guilloche" title="A top-down view of a maze, with cyclopean squares moving through it. One of them has it's eye wide open, staing at the viewer." width='256em'>
+        <img src="https://github.com/Ryan1729/guilloche/raw/main/screenshot.png?raw=true" alt="guilloche" title="A top-down view of a maze, with cyclopean squares moving through it. One of them has its eye wide open, staing at the viewer." width='256em'>
       </a>
     </td>
   </tr>
